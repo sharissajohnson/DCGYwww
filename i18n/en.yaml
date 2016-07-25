@@ -6,4 +6,8 @@ landing:
     title: Entdecke Deine Energie
     subtitle: Volle Transparenz für Energieverbrauch und Erzeugung.</br>Die Energiezukunft berinnt mit Discovergys
     foo:  bar
-  
+
+privatehouseholds:
+    hero:
+        title: Privat Haushalt
+        subtitle: Placeholder
