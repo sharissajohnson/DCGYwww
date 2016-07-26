@@ -7,8 +7,9 @@ landing:
     subtitle: Volle Transparenz für Energieverbrauch und Erzeugung.</br>Die Energiezukunft berinnt mit Discovergys
     foo:  bar
 
-privatehouseholds:
+privateHouseholds:
     hero:
+<<<<<<< Updated upstream
         title: Private Haushalte
         subtitle: Have your dream home pay for itself.
         link: placeholder
@@ -26,3 +27,7 @@ privatehouseholds:
       title: Pay less for your electricity.
       subtitle: Understand your electricity usage better so that you can optimize your utilities. 
         
+=======
+      title: Privat Haushalt
+      subtitle: Placeholder
+>>>>>>> Stashed changes
