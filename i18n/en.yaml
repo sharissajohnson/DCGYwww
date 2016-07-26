@@ -9,7 +9,20 @@ landing:
 
 privatehouseholds:
     hero:
-        title: Privat Haushalt
-        subtitle: Placeholder
+        title: Private Haushalte
+        subtitle: Have your dream home pay for itself.
         link: placeholder
+    features:
+    feature-ecoFriendly:
+      icon:
+      title: Be the better neighbour.
+      subtitle: Help improve the air quality for future generations.
+    feature-modernize:
+      icon:
+      title: Modernize your home.
+      subtitle: Improve your homes energy efficiency, and your property value.
+   feature-savings:
+      icon:
+      title: Pay less for your electricity.
+      subtitle: Understand your electricity usage better so that you can optimize your utilities. 
         
