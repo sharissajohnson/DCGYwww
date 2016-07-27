@@ -16,11 +16,31 @@ privateHouseholds:
       eco-friendly:
         title: Be the better neighbour.
         subtitle: Help improve the air quality for future generations.
-      feature-modernize:
-        icon:
+      modernize:
         title: Modernize your home.
         subtitle: Improve your homes energy efficiency, and your property value.
-     feature-savings:
-        icon:
+     savings:
         title: Pay less for your electricity.
         subtitle: Understand your electricity usage better so that you can optimize your utilities. 
+    page:
+      title: Let us help you improve your home.
+      subtitle:Take control of your utility costs each month.
+      features:
+        hardware:
+          title: All the hardware you need
+          subtitle: Our team takes care of the full installation and technical support.
+        meter-reading:
+          title: Automatic Meter Reading
+          subtitle: No more manual calculations - our smart meters calculate your usage automatically and more accurately than traditional meters.
+          combine-power:
+            title: Combine Multiple Power Source
+            subtitle: Use various power sources to customize and maximize your electricity. 
+          data:
+          title: Powerful Data at your Fingertips
+          subtitle: Easily optimize your self consumption by monitoring your usage on our mobile sit and applications.
+        billing-payments:
+          title: Automatic Billing and Payment Processing
+          subtitle: Have more time for yourself - by using our easy billing and payment system. 
+        wechsel-prozess:
+         title: Wechselprozess
+         subtitle: Switch today - simply order and leave the rest to our team of experts.
