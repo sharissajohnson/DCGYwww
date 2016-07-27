@@ -32,10 +32,10 @@ privateHouseholds:
         meter-reading:
           title: Automatic Meter Reading
           subtitle: No more manual calculations - our smart meters calculate your usage automatically and more accurately than traditional meters.
-          combine-power:
+        combine-power:
             title: Combine Multiple Power Source
             subtitle: Use various power sources to customize and maximize your electricity. 
-          data:
+        data:
           title: Powerful Data at your Fingertips
           subtitle: Easily optimize your self consumption by monitoring your usage on our mobile sit and applications.
         billing-payments:
