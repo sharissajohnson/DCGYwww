@@ -13,8 +13,7 @@ privateHouseholds:
       subtitle: Have your dream home pay for itself.
       link: placeholder
     features:
-      feature-ecoFriendly:
-        icon:
+      eco-friendly:
         title: Be the better neighbour.
         subtitle: Help improve the air quality for future generations.
       feature-modernize:
